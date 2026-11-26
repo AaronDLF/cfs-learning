@@ -1,2 +1,10 @@
 /build*/
 
+# Local AI tooling state
+.atl/
+.codegraph/
+.claude/settings.local.json
+
+# Editor and language-server caches
+.cache/
+compile_commands.json
